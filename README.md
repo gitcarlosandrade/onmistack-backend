@@ -2,7 +2,7 @@
 
 Backend of a similar system to Dropbox and Google Drive that i'm using for learn JavaScript.
 
-## Tecnologies
+## Technologies
 
 * [Yarn](https://yarnpkg.com/) - Resolve dependencies
 * [Mongo](https://www.mongodb.com/) - Database
